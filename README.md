@@ -18,7 +18,9 @@ Pornind de la imaginea oficială a sistemului de operare Ubuntu, să se creeze u
 docker run -ti -p 8000:80 --name containers03 ubuntu bash 
 
 Astfel rulam un container bazat pe imaginea ubuntu(O descarcam din depozitor)
+
 Expunem portul 80 din container pe portul 8000 a gazdei 
+
 Deschidem terminalul Bash pentru a executa comenzile in container 
 
 ![image](https://github.com/user-attachments/assets/86fdf4dd-9d5d-48e2-b039-e73619f0f41b)
